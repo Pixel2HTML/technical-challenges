@@ -35,16 +35,7 @@ page using http://livecoding.tv. Here is an example of what we would like to see
 
 ## Download PSD / Sketch
 
-You can either clone this repository:
-
-~~~
-$ git clone http://code.pixel2html.com/recruiting/frontend-developer-test.git
-~~~
-
-Or download the design files directly from this links:
-
-- Sketch file: [test.sketch](http://code.pixel2html.com/recruiting/frontend-developer-test/blob/master/assets/test.sketch)
-- PSD file: [test.psd](http://code.pixel2html.com/recruiting/frontend-developer-test/blob/master/assets/test.psd)
+You can find the designs files on the folder `assets/`, there is a Photoshop and Sketch version, both have the same design concept so feel free to use the one that you are more comfortable on.
 
 ## Supported browsers
 
