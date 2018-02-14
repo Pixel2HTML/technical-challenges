@@ -59,8 +59,8 @@ this. Be honest :D
 
 ## Questions?
 
-Fear not! You can send us an email to Diego [(diego@pixel2html.com)](mailto:diego@pixel2html.com)
-or Juan Manuel [(jm@pixel2html.com)](mailto:jm@pixel2html.com) with the subject:
+Fear not! You can send us an email to Diego [(diego@pixel2html.com)](mailto:diego@pixel2html.com) 
+with the subject:
 **'Wordpress Test Project'**.
 
 Happy Coding!
