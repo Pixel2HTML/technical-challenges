@@ -5,7 +5,8 @@
 Conver the following design to a Wordpress theme using the
 [latest](https://wordpress.org/download/) version of the CMS. Use your best 
 judgament and feel free to use any framework or plug-in you think will help you
-to get the task done.
+to get the task done. Track the time you spend, we recommend you [TOGGL](https://www.toggl.com/) 
+for this. Be honest :D
 
 ![preview](preview.png)
 
@@ -45,17 +46,15 @@ Please make sure to always use the following details in every WordPress Project:
 ## Before you submit the test make sure your deliverables answers to this questions
 
 1. Are all requirements met?
-2. Is all the content easily editable for a first time Wordpress user using the admin panel?
+2. Is all the content easily editable for a first time Wordpress user using the 
+admin panel?
 
 ## Deliverables
 
-- The files should be pushed to your Github account, if you don't have one you
+The files should be pushed to your Github account, if you don't have one you
 can follow this link: https://github.com/join to get one, it's free! It's 
 important you're comfortable using Git since is one of our main tools in our day
 to day work.
-- Cross-check all the details before pushing the final code for review.
-- Track the time you spend, we recommend you [TOGGL](https://www.toggl.com/) for
-this. Be honest :D
 
 ## Questions?
 
